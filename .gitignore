@@ -1,0 +1,17 @@
+# dot folders
+.cache/
+.idea/
+.vs/
+.vscode/
+.xmake/
+
+# folders
+build/
+vsxmake2022/
+lib/
+vs*/
+
+# files
+*.zip
+compile_commands.json
+project_setup.py
