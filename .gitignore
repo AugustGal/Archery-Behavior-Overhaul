@@ -8,7 +8,6 @@
 # folders
 build/
 vsxmake2022/
-lib/
 vs*/
 
 # files
